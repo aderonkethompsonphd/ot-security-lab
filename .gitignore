@@ -1,0 +1,19 @@
+# Python virtual environments
+.env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Runtime logs
+events.log
+*.log
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
